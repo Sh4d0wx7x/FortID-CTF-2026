@@ -30,7 +30,7 @@ Fort | ID{P | 41n7 | _M3_ | L1k3 | _0n3 | _0f_ | Y0ur | _Fr3 | nch_ | Fl4g | zzz
 
 Final check: every 16-bit record check passes and part 01 is pixel-identical to the original binary's output.
 
-Solver: [solve.c](solve.c), [run_all.py](run_all.py)
+Solver: [solve.c](solve.c), [solver.py](solver.py)
 
 ---
 
