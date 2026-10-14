@@ -8,3 +8,4 @@ Writeups and scripts from FortID CTF 2026.
 | -------------- | -------- | ---------- |
 | [Fortune Teller](Pwn/Fortune-Teller) | Pwn | Medium |
 | [Human RNG](Crypto/Human-RNG) | Crypto | Hard |
+| [Paint me a Flag](Reversing/Paint%20me%20a%20Flag) | Reversing | Hard |
