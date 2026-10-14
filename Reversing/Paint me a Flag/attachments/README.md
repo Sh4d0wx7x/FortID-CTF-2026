@@ -24,7 +24,7 @@ state = mix(count*C3 ^ mix(hash) ^ state ^ t ^ mix(colour | old << 24))   # (cou
 The ops are just regions absorbing neighbouring noise pixels (one seed per letter / background piece), the last op of a region sets the real colour (`#16243a` / `#f2eadf`). The binary re-walks the whole growing region on every op, plus 128 decoy fills with random odd colours that never touch the canvas. A union-find storing `(size, xor-hash, colour)` per region returns the same values in O(1), ~3 s per part:
 
 ```
-$ gcc -O2 -o solve solve.c && python3 run_all.py
+$ gcc -O2 -o solve solve.c && python3 solver.py
 Fort | ID{P | 41n7 | _M3_ | L1k3 | _0n3 | _0f_ | Y0ur | _Fr3 | nch_ | Fl4g | zzz! | !!}
 ```
 
