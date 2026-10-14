@@ -6,7 +6,7 @@ It was an honor to [paint](https://en.wikipedia.org/wiki/Microsoft_Paint) this f
 
 ## Attachments
 
-- [handout.zip](attachments/handout.zip) ( `paint_me_a_flag`, `flag_part_01..13.png`, `flag_part_01..13.pmaf` )
+- [handout.zip](handout.zip) ( `paint_me_a_flag`, `flag_part_01..13.png`, `flag_part_01..13.pmaf` )
 
 ---
 
