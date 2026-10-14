@@ -5,9 +5,8 @@ You've heard about LCGs, LFSRs, MTs, Xorshifts, RDRANDs, Lavarands... But, can y
 ---
 
 ## Attachments
-
 - [handout.zip](attachments/handout.zip) (`encrypt.py`, `bitstream.txt`, `ciphertext.png`)
-- [human_rng_at_work.mp4](attachments/human_rng_at_work.mp4)
+- Download the challenge video from [Google Drive](https://drive.google.com/file/d/1Tsh7dtCGCfWhUliPvIkmd0bUo9f5XCvo/view).
 
 ---
 
